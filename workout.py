@@ -249,8 +249,10 @@ y = '2'
 
 q=int(x)
 w=int(y)
-print(type(q))
+
 print(int(x),int(y))
+
+print("check")
 
             
 
